@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504275875083",
+    "project_id": "esv-audio-player",
+    "storage_bucket": "esv-audio-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504275875083:android:955c7fa9d8fad37c2c1e0e",
+        "android_client_info": {
+          "package_name": "com.abel3t.esv_audio_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504275875083-7n0fu0bdg9s4negrk1l05amdvg35apet.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiO4dJjMqH51IS9n1q2JN8NRv8pd1IEc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504275875083-7n0fu0bdg9s4negrk1l05amdvg35apet.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
